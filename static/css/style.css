@@ -57,7 +57,7 @@ body::after {
     position: absolute;
  color: #aaa;
  top: 54%;
- right: 26%;
+ right: 25%;
  font-size: clamp(9px,5vw,1rem);
 }
 .pokemon_name{
